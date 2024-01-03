@@ -73,7 +73,7 @@ nav .menu{
     display: none;
 }
 #img{
-    background: url(img/backg.JPG) no-repeat center center/cover;
+    background: url(img/backg.webp) no-repeat center center/cover;
     height:calc(100% - 60px);
 }
 .center{    
@@ -266,7 +266,7 @@ nav .menu{
 }
 .explore{
     padding:  70px 0;
-    background: url(img/Indian-Peafowl.jpg) no-repeat center center/cover;
+    background: url(img/Indian-Peafowl.webp) no-repeat center center/cover;
     text-align: center;
 }
 .explore h2{
@@ -302,7 +302,7 @@ nav .menu{
     margin-top: 90px 0;
 }
 .join{
-    background: url(img/tnc_96397258_Full.jpg) no-repeat center center/cover;
+    background: url(img/tnc_96397258_Full.webp) no-repeat center center/cover;
     padding: 70px 0;
     text-align: center;
 }
